@@ -1,5 +1,5 @@
 chardet==3.0.4
-Django==2.2.7
+Django==2.2.24
 fetcher==0.9.2.6
 Pillow==7.1.2
 pytz==2020.1
