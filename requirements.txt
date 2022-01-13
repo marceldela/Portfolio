@@ -1,6 +1,6 @@
 chardet==3.0.4
 Django==2.2.7
 fetcher==0.9.2.6
-Pillow==7.1.2
+Pillow==9.0.0
 pytz==2020.1
 sqlparse==0.3.1
